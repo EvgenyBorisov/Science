@@ -1,0 +1,4 @@
+model_id	total_coverage	min_covarage	max_covarage	num_templates	rmsd_to_average	rmsd_score	model_score	rmsd_to_answer
+988	89	50	77	2	1.4	1.9440317	1.2269
+6143	87	52	58	3	1.55	1.86172	1.2276
+936	91	68	77	2	1.53	2.4107799	1.2277
