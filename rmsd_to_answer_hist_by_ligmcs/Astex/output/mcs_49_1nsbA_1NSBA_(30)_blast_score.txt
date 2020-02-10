@@ -1,0 +1,4 @@
+model_id	total_coverage	min_covarage	max_covarage	num_templates	rmsd_to_average	rmsd_score	model_score	rmsd_to_answer
+1	96	96	96	1	0.42	0.0	0.7334
+4	88	68	80	2	0.34	1.089834	1.1015
+3	92	64	80	3	0.48	1.8360049	1.1405

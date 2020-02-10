@@ -1,0 +1,4 @@
+model_id	total_coverage	min_covarage	max_covarage	num_templates	rmsd_to_average	rmsd_score	model_score	rmsd_to_answer
+647	78	60	65	2	0.99	1.4906626	1.1714
+650	78	60	65	2	1.01	1.4883629	1.1756
+648	78	60	65	2	1.01	1.5575719	1.1833

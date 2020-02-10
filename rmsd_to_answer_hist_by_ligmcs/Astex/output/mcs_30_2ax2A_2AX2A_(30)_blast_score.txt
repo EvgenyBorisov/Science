@@ -1,0 +1,4 @@
+model_id	total_coverage	min_covarage	max_covarage	num_templates	rmsd_to_average	rmsd_score	model_score	rmsd_to_answer
+2211	80	57	61	3	1.69	0.8098461	0.7548
+2219	80	57	61	3	1.76	0.8359935	0.7673
+2201	80	57	61	3	1.57	0.8098461	1.0587
